@@ -1,0 +1,1 @@
+{"name":"Local: largest_sum_subSegment","url":"c:\\Users\\Quang Huy\\OneDrive\\GITHUB\\Tree\\largest_sum_subSegment.cpp","tests":[{"id":1709971018312,"input":"5 3\n1 2 -3 5 -1\n2 6\n3 1\n2 -2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Quang Huy\\OneDrive\\GITHUB\\Tree\\largest_sum_subSegment.cpp","group":"local","local":true}
